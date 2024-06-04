@@ -9,7 +9,7 @@
   
 **iOS widget**
 
-![image](https://github.com/flowercold/Bookkeeping/assets/1523420/7bc4b185-38cc-48f4-bea4-5f7bdf7e57dc)
+![image](https://github.com/flowercold/Bookkeeping/assets/1523420/5a2441b4-a99b-4259-bd9c-6ae3aa9d7089)
 
 **Small multiple**
 
