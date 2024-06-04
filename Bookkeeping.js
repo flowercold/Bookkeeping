@@ -37,7 +37,6 @@ async function checkAndUpdateVersion(currentVersion) {
 
 // 获取本月记账数据
 async function extractIds(url) {// 手动解析 URL
-
   const baseIdMatch = url.match(/base\/([^\/?]+)/);
   const baseId = baseIdMatch ? baseIdMatch[1] : null;
   const tableIdMatch = url.match(/[?&]table=([^&]+)/);
