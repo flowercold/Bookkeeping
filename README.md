@@ -5,7 +5,7 @@
 - Edward Tufte 的 Small multiple 理念提供 12 张月度记账图
 - 基于 Scriptable 的脚本
 - 数据存储到多维表格中，[多维表格模版](https://dsbp9gf887.feishu.cn/base/ChfTb2Cb9aOA64srKd3c6WrGnCd?table=tblrnc92oom5Imhl&view=vewEYHNnVO) 
-- [iOS 快捷指令](https://www.icloud.com/shortcuts/7b147e0fcdbd4a78a5fee99b31fabf9d)搭配 Coze API 实现自动记账
+- [iOS 快捷指令](https://www.icloud.com/shortcuts/7b147e0fcdbd4a78a5fee99b31fabf9d) 搭配 Coze API 实现自动记账
   
 **iOS widget**
 
